@@ -66,9 +66,6 @@ int main() {
     }
 
     jobSequencing(jobs, n);
-    printf("\nSahib Preet Singh 00713211621 AI-ML");
     return 0;
-
-
     
 }

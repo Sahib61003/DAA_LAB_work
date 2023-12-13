@@ -67,6 +67,5 @@ int main() {
     };
     
     prims_algorithm(adjacency_matrix, V);
-    printf("\nSahib Preet Singh 00713211622 AI-ML");
     return 0;
 }

@@ -97,6 +97,5 @@ int main() {
 
     // Run Dijkstra's algorithm
     dijkstra(graph, numVertices, src);
-    printf("\nSahib Preet Singh 00713211621 AI-ML");
     return 0;
 }

@@ -47,6 +47,5 @@ int main()
        if (i < n)
        Totalvalue = Totalvalue + (ratio[i]*capacity);
      printf("\nThe maximum value is :%f\n",Totalvalue);     
-     printf("\nSahib Preet Singh 00713211621 AI-ML");
      return 0;
 }

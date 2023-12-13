@@ -92,6 +92,5 @@ int main() {
         printf("%d ", arr[i]);
     }
 
-    printf("\nSahib Preet Singh AI-ML 00713211621");
     return 0;
 }

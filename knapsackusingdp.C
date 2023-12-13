@@ -47,6 +47,5 @@ int main() {
     scanf("%d", &W);
 
     printf("Maximum value that can be achieved: %d\n", knapsack(W, wt, val, n));
-    printf("Sahib Preet Singh 00713211621 AI-ML");
     return 0;
 }

@@ -55,7 +55,6 @@ void analyzeTimeComplexity(int arr[], int n, int key) {
 }
 
 int main() {
-    printf("Sahib Preet Singh 0713211621 AI-ML\n");
     srand(time(NULL)); // Seed for random numbers
 
     // Array size and key

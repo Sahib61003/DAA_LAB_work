@@ -49,7 +49,6 @@ int main() {
         {0, 7, INF, 1},
         {4, INF, INF, 2}
     };
-    printf("\nSahib Preet Singh 00713211621 AI-ML");
     printf("\n\n");
     // Call the Floyd-Warshall algorithm function
     floydWarshall(graph);
