@@ -30,9 +30,8 @@ Welcome to the Design and Analysis of Algorithm Lab repository! This repository 
 
 ## Dynamic Programming
 11. 0/1 Knapsack Problem: Solve the 0/1 Knapsack problem using dynamic programming.
-12. Single Source Shortest Path: Implement the single source shortest path problem for a given graph. (Dijkstra's Algorithm)
-13. Multistage Graph Shortest Path: Find the shortest path for a multistage graph using dynamic programming.(Floyd Warshall Algorithm)
+12. Multistage Graph Shortest Path: Find the shortest path for a multistage graph using dynamic programming.(Floyd Warshall Algorithm)
 
-Feel free to explore and experiment with these programs to gain hands-on experience in algorithm design and analysis. If you have any questions or suggestions, please don't hesitate to reach out.
+Feel free to explore and experiment with these programs to gain hands-on experience in algorithm design and analysis. If you have any questions or suggestions, please don't hesitate to reach out to me on *sahib61003@gmail.com*.
 
 Happy coding and algorithm exploration! 📊🔍🧠
